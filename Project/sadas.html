@@ -1,0 +1,20 @@
+<script src="http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
+
+		<script type="text/javascript">
+		var dataSetter = {};
+		var map;
+		navigator.geolocation.getCurrentPosition(function(data){console.log(data)});
+		setTimeout(function(){
+			return map = L.map('map').setView([dataSetter.coords.longitude, dataSetter.coords.latitude], 8);
+		}, 5000);
+		
+
+L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
+
+L.marker([28.38, 77.12]).addTo(map)
+    .bindPopup('A pretty CSS3 popup.<br> Easily customizable.')
+    .openPopup();
+
+		</script>
