@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-04T11:41:56.436Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="o5YTrTbT8lXlsnbb03hr" version="14.6.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-04T11:42:18.478Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="5XYxg-icPvTLKuobTV0K" version="14.6.9" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Overview">
     <mxGraphModel dx="9449" dy="11831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" background="none" math="0" shadow="1">
       <root>
@@ -483,10 +483,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1--rTxH9IWRkPkINqhhr" name="Modular Structure">
-    <mxGraphModel dx="8609" dy="11374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" math="0" shadow="0">
+    <mxGraphModel dx="9740" dy="11965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" math="0" shadow="0">
       <root>
         <mxCell id="U4hOffIa9TAmm8mLI-c7-0" />
         <mxCell id="U4hOffIa9TAmm8mLI-c7-1" parent="U4hOffIa9TAmm8mLI-c7-0" />
+        <mxCell id="fezQq82iX5QaSYcVpKSL-87" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-2530" y="-1720" width="3620" height="1870" as="geometry" />
+        </mxCell>
         <mxCell id="Js5D3bVO10TusXfb_C12-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
           <mxGeometry x="-1810" y="-1040" width="550" height="420" as="geometry" />
         </mxCell>
@@ -1087,11 +1090,14 @@
         <mxCell id="fezQq82iX5QaSYcVpKSL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="fezQq82iX5QaSYcVpKSL-42" source="fezQq82iX5QaSYcVpKSL-8" target="fezQq82iX5QaSYcVpKSL-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fezQq82iX5QaSYcVpKSL-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="fezQq82iX5QaSYcVpKSL-42" source="fezQq82iX5QaSYcVpKSL-16" target="fezQq82iX5QaSYcVpKSL-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fezQq82iX5QaSYcVpKSL-16" value="Enter Client Project Details (Sales or by Client through App)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="fezQq82iX5QaSYcVpKSL-42">
           <mxGeometry x="172.5" y="93.82978723404256" width="120" height="62.55319148936171" as="geometry" />
         </mxCell>
         <mxCell id="fezQq82iX5QaSYcVpKSL-17" value="Timely Reminders to purchase material based as per the cycle of Project&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="fezQq82iX5QaSYcVpKSL-42">
-          <mxGeometry x="310.5" y="93.82978723404256" width="120" height="62.55319148936171" as="geometry" />
+          <mxGeometry x="316.75" y="93.82978723404256" width="120" height="62.55319148936171" as="geometry" />
         </mxCell>
         <mxCell id="fezQq82iX5QaSYcVpKSL-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="fezQq82iX5QaSYcVpKSL-42" source="fezQq82iX5QaSYcVpKSL-16" target="fezQq82iX5QaSYcVpKSL-17">
           <mxGeometry relative="1" as="geometry" />
@@ -1100,10 +1106,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fezQq82iX5QaSYcVpKSL-19" value="Reminder before Price Increase Prediction of last purchased material" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="fezQq82iX5QaSYcVpKSL-42">
-          <mxGeometry x="35" y="93.82978723404256" width="120" height="62.55319148936171" as="geometry" />
-        </mxCell>
-        <mxCell id="fezQq82iX5QaSYcVpKSL-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="fezQq82iX5QaSYcVpKSL-42" source="fezQq82iX5QaSYcVpKSL-16" target="fezQq82iX5QaSYcVpKSL-19">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="30" y="93.82978723404256" width="120" height="62.55319148936171" as="geometry" />
         </mxCell>
         <mxCell id="fezQq82iX5QaSYcVpKSL-22" value="Upsell/Cross Sell client based on their Project Requirements" style="whiteSpace=wrap;html=1;rounded=1;shadow=0;" vertex="1" parent="fezQq82iX5QaSYcVpKSL-42">
           <mxGeometry x="172.5" y="187.6595744680851" width="120" height="62.55319148936171" as="geometry" />
@@ -1221,9 +1224,6 @@
         </mxCell>
         <mxCell id="Kna8JGkl15qAOSWJscD3-4" value="&lt;p style=&quot;line-height: 80%&quot;&gt;&lt;/p&gt;&lt;h1 style=&quot;font-size: 26px&quot;&gt;Inventory Module&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=0;" parent="fezQq82iX5QaSYcVpKSL-84" vertex="1">
           <mxGeometry x="105" y="25" width="350" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fezQq82iX5QaSYcVpKSL-87" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
-          <mxGeometry x="-2530" y="-1720" width="3620" height="1870" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
