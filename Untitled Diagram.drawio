@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-04T12:17:07.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="aI58PROjykSrwUQlXFxc" version="14.6.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-05T12:08:24.832Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="KPySbfGlLQIyjlTsYZMQ" version="14.6.9" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Overview">
-    <mxGraphModel dx="12187" dy="13246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" background="none" math="0" shadow="1">
+    <mxGraphModel dx="9449" dy="11831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" background="none" math="0" shadow="1">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -483,13 +483,10 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1--rTxH9IWRkPkINqhhr" name="Modular Structure">
-    <mxGraphModel dx="11667" dy="12974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" math="0" shadow="0">
+    <mxGraphModel dx="8704" dy="11432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" math="0" shadow="0">
       <root>
         <mxCell id="U4hOffIa9TAmm8mLI-c7-0" />
         <mxCell id="U4hOffIa9TAmm8mLI-c7-1" parent="U4hOffIa9TAmm8mLI-c7-0" />
-        <mxCell id="fezQq82iX5QaSYcVpKSL-87" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillColor=none;" parent="U4hOffIa9TAmm8mLI-c7-1" vertex="1">
-          <mxGeometry x="-2480" y="-1720" width="3460" height="1870" as="geometry" />
-        </mxCell>
         <mxCell id="Js5D3bVO10TusXfb_C12-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="U4hOffIa9TAmm8mLI-c7-1" vertex="1">
           <mxGeometry x="-1810" y="-1040" width="550" height="420" as="geometry" />
         </mxCell>
@@ -1224,6 +1221,96 @@
         </mxCell>
         <mxCell id="Kna8JGkl15qAOSWJscD3-4" value="&lt;p style=&quot;line-height: 80%&quot;&gt;&lt;/p&gt;&lt;h1 style=&quot;font-size: 26px&quot;&gt;Inventory Module&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=0;" parent="fezQq82iX5QaSYcVpKSL-84" vertex="1">
           <mxGeometry x="105" y="25" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Drsa-WIHnz5RLaNLEA1G-0" value="&lt;p style=&quot;line-height: 80%&quot;&gt;&lt;/p&gt;&lt;h1 style=&quot;font-size: 26px&quot;&gt;Task Queue Module&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-1115" y="-573.5" width="350" height="56.06" as="geometry" />
+        </mxCell>
+        <mxCell id="Drsa-WIHnz5RLaNLEA1G-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="U4hOffIa9TAmm8mLI-c7-1" source="Drsa-WIHnz5RLaNLEA1G-1" target="Drsa-WIHnz5RLaNLEA1G-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Drsa-WIHnz5RLaNLEA1G-1" value="Select Team/View of Queue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-1120" y="-500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Drsa-WIHnz5RLaNLEA1G-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="U4hOffIa9TAmm8mLI-c7-1" source="Drsa-WIHnz5RLaNLEA1G-2" target="Drsa-WIHnz5RLaNLEA1G-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Drsa-WIHnz5RLaNLEA1G-2" value="Will show all the related entities as per your team and access" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-1120" y="-420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Drsa-WIHnz5RLaNLEA1G-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="U4hOffIa9TAmm8mLI-c7-1" source="Drsa-WIHnz5RLaNLEA1G-4" target="Drsa-WIHnz5RLaNLEA1G-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Drsa-WIHnz5RLaNLEA1G-4" value="Shows TAT for assigned and unassigned tasks" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-1120" y="-340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Drsa-WIHnz5RLaNLEA1G-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="U4hOffIa9TAmm8mLI-c7-1" source="Drsa-WIHnz5RLaNLEA1G-6" target="Drsa-WIHnz5RLaNLEA1G-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Drsa-WIHnz5RLaNLEA1G-6" value="Manager and Team Members can assign Task to themselves or other queue member" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-1120" y="-260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Drsa-WIHnz5RLaNLEA1G-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="U4hOffIa9TAmm8mLI-c7-1" source="Drsa-WIHnz5RLaNLEA1G-10" target="Drsa-WIHnz5RLaNLEA1G-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Drsa-WIHnz5RLaNLEA1G-10" value="Can respond to same task to communicate in form of Email from the platform itself" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-1120" y="-181" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Drsa-WIHnz5RLaNLEA1G-12" value="Once Completed the task will be assigned to the next team&amp;nbsp;&lt;br&gt;&amp;nbsp;in process" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-1120" y="-100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Drsa-WIHnz5RLaNLEA1G-14" value="&lt;h1&gt;Order of Tasks&lt;/h1&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-940" y="-500" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Drsa-WIHnz5RLaNLEA1G-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="U4hOffIa9TAmm8mLI-c7-1" source="Drsa-WIHnz5RLaNLEA1G-15" target="Drsa-WIHnz5RLaNLEA1G-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Drsa-WIHnz5RLaNLEA1G-15" value="RFQ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-905" y="-350" width="110" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="Drsa-WIHnz5RLaNLEA1G-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="U4hOffIa9TAmm8mLI-c7-1" source="Drsa-WIHnz5RLaNLEA1G-16" target="Drsa-WIHnz5RLaNLEA1G-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Drsa-WIHnz5RLaNLEA1G-16" value="Supplier Team" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-905" y="-302" width="110" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="Drsa-WIHnz5RLaNLEA1G-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="U4hOffIa9TAmm8mLI-c7-1" source="Drsa-WIHnz5RLaNLEA1G-18" target="Drsa-WIHnz5RLaNLEA1G-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Drsa-WIHnz5RLaNLEA1G-18" value="Sales Team" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-905" y="-402" width="110" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="Drsa-WIHnz5RLaNLEA1G-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="U4hOffIa9TAmm8mLI-c7-1" source="Drsa-WIHnz5RLaNLEA1G-21" target="Drsa-WIHnz5RLaNLEA1G-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Drsa-WIHnz5RLaNLEA1G-21" value="Buyer/Company" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-905" y="-450" width="110" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="Drsa-WIHnz5RLaNLEA1G-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="U4hOffIa9TAmm8mLI-c7-1" source="Drsa-WIHnz5RLaNLEA1G-24" target="Drsa-WIHnz5RLaNLEA1G-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Drsa-WIHnz5RLaNLEA1G-24" value="Quotation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-905" y="-251.5" width="110" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="Drsa-WIHnz5RLaNLEA1G-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="U4hOffIa9TAmm8mLI-c7-1" source="Drsa-WIHnz5RLaNLEA1G-26" target="Drsa-WIHnz5RLaNLEA1G-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Drsa-WIHnz5RLaNLEA1G-26" value="Sales Team" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-905" y="-203" width="110" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="Drsa-WIHnz5RLaNLEA1G-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="U4hOffIa9TAmm8mLI-c7-1" source="Drsa-WIHnz5RLaNLEA1G-28" target="Drsa-WIHnz5RLaNLEA1G-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Drsa-WIHnz5RLaNLEA1G-28" value="Confirmed RFQ with PO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-905" y="-160" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Drsa-WIHnz5RLaNLEA1G-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="U4hOffIa9TAmm8mLI-c7-1" source="Drsa-WIHnz5RLaNLEA1G-30" target="Drsa-WIHnz5RLaNLEA1G-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Drsa-WIHnz5RLaNLEA1G-30" value="S&amp;amp;OP Team" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-905" y="-111" width="110" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="Drsa-WIHnz5RLaNLEA1G-32" value="Order and Dispatch" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-905" y="-62" width="110" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
