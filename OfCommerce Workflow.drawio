@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-17T10:10:00.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="PnFmeOqABcWFUqWLdTMd" version="14.6.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-17T10:16:38.106Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="U5V0yd8pIxWqPJcBwtxb" version="14.6.10" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Overview">
     <mxGraphModel dx="9662" dy="11935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" background="none" math="0" shadow="1">
       <root>
@@ -796,7 +796,7 @@
           <mxGeometry x="-82.25" y="-92.5" width="72.5" height="72.5" as="geometry" />
         </mxCell>
         <mxCell id="Kna8JGkl15qAOSWJscD3-0" value="&lt;p style=&quot;line-height: 80%&quot;&gt;&lt;/p&gt;&lt;h1 style=&quot;font-size: 26px&quot;&gt;Fulfilment Team Module&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=0;" parent="U4hOffIa9TAmm8mLI-c7-1" vertex="1">
-          <mxGeometry x="-1327.75" y="-140" width="350" height="60" as="geometry" />
+          <mxGeometry x="-890" y="-619" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Js5D3bVO10TusXfb_C12-22" value="&lt;p style=&quot;line-height: 80%&quot;&gt;&lt;/p&gt;&lt;h1 style=&quot;font-size: 26px ; line-height: 100%&quot;&gt;Add Buyer Module for Clients&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=0;" parent="U4hOffIa9TAmm8mLI-c7-1" vertex="1">
           <mxGeometry x="-1740" y="-1026" width="350" height="60" as="geometry" />
@@ -1427,10 +1427,10 @@
           <mxGeometry x="90" y="-510" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tFC2MB2kA89wvtRbpbl4-26" value="&lt;p style=&quot;line-height: 80%&quot;&gt;&lt;/p&gt;&lt;h1 style=&quot;font-size: 26px&quot;&gt;S&amp;amp;OP Module&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=0;" parent="U4hOffIa9TAmm8mLI-c7-1" vertex="1">
-          <mxGeometry x="-1327.75" y="-210" width="350" height="56.06" as="geometry" />
+          <mxGeometry x="-1355.56" y="-231.5" width="350" height="56.06" as="geometry" />
         </mxCell>
         <mxCell id="tFC2MB2kA89wvtRbpbl4-30" value="&lt;p style=&quot;line-height: 80%&quot;&gt;&lt;/p&gt;&lt;h1 style=&quot;font-size: 26px&quot;&gt;Payment Module&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=0;" parent="U4hOffIa9TAmm8mLI-c7-1" vertex="1">
-          <mxGeometry x="-1327.75" y="-70" width="350" height="56.06" as="geometry" />
+          <mxGeometry x="-890" y="-549" width="350" height="56.06" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
