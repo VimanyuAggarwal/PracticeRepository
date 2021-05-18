@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T06:58:31.484Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="8QbIxnq7kcFnbDWxxDRD" version="14.6.13" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-18T07:03:19.227Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="T4UPOVcnS06gCg7eoh96" version="14.6.13" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Overview">
     <mxGraphModel dx="9662" dy="11935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" background="none" math="0" shadow="1">
       <root>
@@ -483,7 +483,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1--rTxH9IWRkPkINqhhr" name="Modular Structure">
-    <mxGraphModel dx="9155" dy="11666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" math="0" shadow="0">
+    <mxGraphModel dx="11297" dy="12801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" math="0" shadow="0">
       <root>
         <mxCell id="U4hOffIa9TAmm8mLI-c7-0" />
         <mxCell id="U4hOffIa9TAmm8mLI-c7-1" parent="U4hOffIa9TAmm8mLI-c7-0" />
@@ -1678,6 +1678,9 @@
         </mxCell>
         <mxCell id="z2cSg3c17jVe23cbuM_H-90" value="&lt;b&gt;Finance Team&lt;br&gt;Module&lt;/b&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
           <mxGeometry x="90.25" y="-290" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z2cSg3c17jVe23cbuM_H-97" value="&lt;p style=&quot;line-height: 80%&quot;&gt;&lt;/p&gt;&lt;h1 style=&quot;font-size: 26px&quot;&gt;Finance Team Module&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-790" y="270" width="350" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
