@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-18T07:20:13.872Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Tyxc3eG4KWhLgaSd0MmD" version="14.6.13" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-18T07:22:30.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="KuFl0vzHjY1tiexVLdIf" version="14.6.13" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Overview">
     <mxGraphModel dx="9662" dy="11935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" background="none" math="0" shadow="1">
       <root>
@@ -483,7 +483,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1--rTxH9IWRkPkINqhhr" name="Modular Structure">
-    <mxGraphModel dx="9155" dy="11666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" math="0" shadow="0">
+    <mxGraphModel dx="8806" dy="11481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" math="0" shadow="0">
       <root>
         <mxCell id="U4hOffIa9TAmm8mLI-c7-0" />
         <mxCell id="U4hOffIa9TAmm8mLI-c7-1" parent="U4hOffIa9TAmm8mLI-c7-0" />
@@ -1468,7 +1468,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="z2cSg3c17jVe23cbuM_H-38" value="POD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="z2cSg3c17jVe23cbuM_H-76">
+        <mxCell id="z2cSg3c17jVe23cbuM_H-38" value="POD(Orion)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="z2cSg3c17jVe23cbuM_H-76">
           <mxGeometry x="298.22929411764704" y="250" width="132.54635294117645" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z2cSg3c17jVe23cbuM_H-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="z2cSg3c17jVe23cbuM_H-76" source="z2cSg3c17jVe23cbuM_H-36" target="z2cSg3c17jVe23cbuM_H-38">
@@ -1721,11 +1721,47 @@
         <mxCell id="hZ8Lh4XmWWTVLrw4iX3p-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="U4hOffIa9TAmm8mLI-c7-1" source="z2cSg3c17jVe23cbuM_H-113" target="hZ8Lh4XmWWTVLrw4iX3p-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="hZ8Lh4XmWWTVLrw4iX3p-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="U4hOffIa9TAmm8mLI-c7-1" source="z2cSg3c17jVe23cbuM_H-113" target="hZ8Lh4XmWWTVLrw4iX3p-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="z2cSg3c17jVe23cbuM_H-113" value="Update Tracking Details as per the documents Uploaded" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
           <mxGeometry x="-1105" y="980" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hZ8Lh4XmWWTVLrw4iX3p-0" value="&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Create a shipment - Vehicle requested&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Add LSP Details - Vehicle placed&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Supplier Tax Invoice - Loading.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Buyer Tax Invoice - Documents in Process.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;E-Waybill (OFB to Buyer) - Vehicle In-transit Fulfillment team will mark the Vehicle Reached status.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;font style=&quot;font-size: 8px&quot;&gt;Upload the Signed POD - Delivered&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;fillColor=none;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
           <mxGeometry x="-901.13" y="949" width="211.13" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="hZ8Lh4XmWWTVLrw4iX3p-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="U4hOffIa9TAmm8mLI-c7-1" source="hZ8Lh4XmWWTVLrw4iX3p-2" target="hZ8Lh4XmWWTVLrw4iX3p-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZ8Lh4XmWWTVLrw4iX3p-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.549;entryY=0.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="U4hOffIa9TAmm8mLI-c7-1" source="hZ8Lh4XmWWTVLrw4iX3p-2" target="hZ8Lh4XmWWTVLrw4iX3p-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZ8Lh4XmWWTVLrw4iX3p-2" value="Shipment On Delivery Location" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-1105" y="1061.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hZ8Lh4XmWWTVLrw4iX3p-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="U4hOffIa9TAmm8mLI-c7-1" source="hZ8Lh4XmWWTVLrw4iX3p-4" target="hZ8Lh4XmWWTVLrw4iX3p-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZ8Lh4XmWWTVLrw4iX3p-4" value="Material Accepted" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-1040" y="1160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hZ8Lh4XmWWTVLrw4iX3p-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="U4hOffIa9TAmm8mLI-c7-1" source="hZ8Lh4XmWWTVLrw4iX3p-6" target="hZ8Lh4XmWWTVLrw4iX3p-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZ8Lh4XmWWTVLrw4iX3p-6" value="Material Rejected" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-1180" y="1160" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hZ8Lh4XmWWTVLrw4iX3p-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="U4hOffIa9TAmm8mLI-c7-1" source="hZ8Lh4XmWWTVLrw4iX3p-8" target="hZ8Lh4XmWWTVLrw4iX3p-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hZ8Lh4XmWWTVLrw4iX3p-8" value="Negotiate with Buyer/Supplier" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-1180" y="1240" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hZ8Lh4XmWWTVLrw4iX3p-10" value="Send to Inventory Module" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-1180" y="1320" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hZ8Lh4XmWWTVLrw4iX3p-12" value="Generate Invoice as per Payment Terms" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-1040" y="1240" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
