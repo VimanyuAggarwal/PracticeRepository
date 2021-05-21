@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-21T08:34:22.944Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="UXX37ZVMe61n_3GMZ-_m" version="14.6.13" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-21T08:39:54.498Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="QKYyJ99-hwdj44qmjDkB" version="14.6.13" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Overview">
     <mxGraphModel dx="8572" dy="11340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" background="none" math="0" shadow="1">
       <root>
@@ -483,7 +483,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1--rTxH9IWRkPkINqhhr" name="Modular Structure">
-    <mxGraphModel dx="9662" dy="11882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" math="0" shadow="0">
+    <mxGraphModel dx="9155" dy="11630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" math="0" shadow="0">
       <root>
         <mxCell id="U4hOffIa9TAmm8mLI-c7-0" />
         <mxCell id="U4hOffIa9TAmm8mLI-c7-1" parent="U4hOffIa9TAmm8mLI-c7-0" />
@@ -1749,6 +1749,9 @@
         </mxCell>
         <mxCell id="z2cSg3c17jVe23cbuM_H-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="aSynoZ1qJDvuxZK-seyW-4" source="z2cSg3c17jVe23cbuM_H-90" target="z2cSg3c17jVe23cbuM_H-102" edge="1">
           <mxGeometry as="geometry" />
+        </mxCell>
+        <mxCell id="mIynTOSqcWu2keHhH5P9-0" value="Order ID: BRFQ_20210403064735&#xa;&#xa;&#xa;Buyer payment terms: 100% Advance against proforma Invoice&#xa;Selling: As per po&#xa;Logistics handler: Supplier&#xa;Buying: 47000/MT + 3000 (for transport)&#xa;Buyer entity: Kolkata, West Bengal&#xa;Supplier: Bansal Industrial Corporation&#xa;Supplier entity: Kolkata, West Bengal&#xa;Pickup Address: Howrah, Shalimar&#xa;Delivery Address: Hindustan Unilever Limited&#xa;                            1, Transport Depot Road, &#xa;                            Taratala, Kolkata700088&#xa;&#xa;&#xa;Supplier ops: Rabiul" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="600" y="-530" width="330" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
