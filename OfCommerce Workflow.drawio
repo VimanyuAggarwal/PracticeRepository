@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T07:32:42.766Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="c1_e32iFe9ibNw51ZsE_" version="14.7.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-24T07:41:23.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="dTqCwnjSIOIkws0SqdK9" version="14.7.0" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Overview">
     <mxGraphModel dx="9662" dy="11935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" background="none" math="0" shadow="1">
       <root>
@@ -483,7 +483,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1--rTxH9IWRkPkINqhhr" name="Modular Structure">
-    <mxGraphModel dx="9662" dy="11935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" math="0" shadow="0">
+    <mxGraphModel dx="9155" dy="11666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" math="0" shadow="0">
       <root>
         <mxCell id="U4hOffIa9TAmm8mLI-c7-0" />
         <mxCell id="U4hOffIa9TAmm8mLI-c7-1" parent="U4hOffIa9TAmm8mLI-c7-0" />
@@ -1760,6 +1760,59 @@
         </mxCell>
         <mxCell id="ug4WtLVOIeD-sEzSDxGS-4" value="&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;span&gt;.&lt;/span&gt;&lt;span&gt;Upload the Sale Return - Rejected&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;(Enter Details: Quantity Rejected, Transportation&amp;nbsp; Cost Bearing Entity, Reason for Rejection&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
           <mxGeometry x="-1340" y="-8.870000000000001" width="90" height="89.75" as="geometry" />
+        </mxCell>
+        <mxCell id="ug4WtLVOIeD-sEzSDxGS-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="U4hOffIa9TAmm8mLI-c7-1" source="ug4WtLVOIeD-sEzSDxGS-9" target="fezQq82iX5QaSYcVpKSL-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ug4WtLVOIeD-sEzSDxGS-9" value="&lt;b&gt;Lead Management Module&lt;/b&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="5.25" y="-1380" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ug4WtLVOIeD-sEzSDxGS-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="U4hOffIa9TAmm8mLI-c7-1" source="ug4WtLVOIeD-sEzSDxGS-13" target="ug4WtLVOIeD-sEzSDxGS-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ug4WtLVOIeD-sEzSDxGS-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="U4hOffIa9TAmm8mLI-c7-1" source="ug4WtLVOIeD-sEzSDxGS-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-620" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-520" y="540" />
+              <mxPoint x="-620" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ug4WtLVOIeD-sEzSDxGS-13" value="Upload Leads via Excel&amp;nbsp;&lt;br&gt;&amp;nbsp;defined column structure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-580" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ug4WtLVOIeD-sEzSDxGS-14" value="Name of Company, POC, Industry, Buyer/Supplier, Phone Number, Address, Alternate POC, KAM etc&amp;nbsp;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-370" y="432.5" width="150" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="ug4WtLVOIeD-sEzSDxGS-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="U4hOffIa9TAmm8mLI-c7-1" source="ug4WtLVOIeD-sEzSDxGS-16" target="ug4WtLVOIeD-sEzSDxGS-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-720" y="540" />
+              <mxPoint x="-620" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ug4WtLVOIeD-sEzSDxGS-16" value="Manually Add a single lead in the system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-780" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ug4WtLVOIeD-sEzSDxGS-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="U4hOffIa9TAmm8mLI-c7-1" source="ug4WtLVOIeD-sEzSDxGS-18" target="ug4WtLVOIeD-sEzSDxGS-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ug4WtLVOIeD-sEzSDxGS-18" value="Framework will verify the Excel sheet or the lead against Name of Company, Phone Number and Pincode&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-700" y="580" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ug4WtLVOIeD-sEzSDxGS-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="U4hOffIa9TAmm8mLI-c7-1" source="ug4WtLVOIeD-sEzSDxGS-21" target="ug4WtLVOIeD-sEzSDxGS-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ug4WtLVOIeD-sEzSDxGS-21" value="Show matching results which already exist in system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-700" y="680" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ug4WtLVOIeD-sEzSDxGS-23" value="These can be merged/removed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-700" y="770" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ug4WtLVOIeD-sEzSDxGS-25" value="&lt;font style=&quot;font-size: 8px&quot;&gt;This action is reversible. Every Import will be tagged.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-715" y="520" width="190" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
