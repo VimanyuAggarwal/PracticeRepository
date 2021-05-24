@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T06:21:19.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Jrx41XlA0YCMXwfCF4rZ" version="14.7.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-24T07:21:31.646Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="EZxNp3Doc-MLaUVEXusI" version="14.7.0" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Overview">
     <mxGraphModel dx="9662" dy="11935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" background="none" math="0" shadow="1">
       <root>
@@ -483,7 +483,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1--rTxH9IWRkPkINqhhr" name="Modular Structure">
-    <mxGraphModel dx="8481" dy="11310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" math="0" shadow="0">
+    <mxGraphModel dx="10363" dy="12306" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" math="0" shadow="0">
       <root>
         <mxCell id="U4hOffIa9TAmm8mLI-c7-0" />
         <mxCell id="U4hOffIa9TAmm8mLI-c7-1" parent="U4hOffIa9TAmm8mLI-c7-0" />
@@ -1752,6 +1752,9 @@
         </mxCell>
         <mxCell id="mIynTOSqcWu2keHhH5P9-0" value="Order ID: BRFQ_20210403064735&#xa;&#xa;&#xa;Buyer payment terms: 100% Advance against proforma Invoice&#xa;Selling: As per po&#xa;Logistics handler: Supplier&#xa;Buying: 47000/MT + 3000 (for transport)&#xa;Buyer entity: Kolkata, West Bengal&#xa;Supplier: Bansal Industrial Corporation&#xa;Supplier entity: Kolkata, West Bengal&#xa;Pickup Address: Howrah, Shalimar&#xa;Delivery Address: Hindustan Unilever Limited&#xa;                            1, Transport Depot Road, &#xa;                            Taratala, Kolkata700088&#xa;&#xa;&#xa;Supplier ops: Rabiul" style="rounded=0;whiteSpace=wrap;html=1;" parent="U4hOffIa9TAmm8mLI-c7-1" vertex="1">
           <mxGeometry x="700" y="-636" width="330" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ug4WtLVOIeD-sEzSDxGS-0" value="&lt;p style=&quot;line-height: 80%&quot;&gt;&lt;/p&gt;&lt;h1 style=&quot;font-size: 26px&quot;&gt;Lead Management Module&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
+          <mxGeometry x="-760" y="343.94" width="350" height="56.06" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
