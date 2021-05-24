@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T07:21:31.646Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="EZxNp3Doc-MLaUVEXusI" version="14.7.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-24T07:28:51.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="sjnULakr4o_JjeSxkQYu" version="14.7.0" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Overview">
     <mxGraphModel dx="9662" dy="11935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" background="none" math="0" shadow="1">
       <root>
@@ -971,10 +971,10 @@
           <mxGeometry x="14.069999999999936" as="geometry" />
         </mxCell>
         <mxCell id="QEXsgS6kZZZSAuguEfgR-4" value="" style="group" parent="U4hOffIa9TAmm8mLI-c7-1" vertex="1" connectable="0">
-          <mxGeometry x="-1350" y="-620" width="570" height="860" as="geometry" />
+          <mxGeometry x="-1350" y="-620" width="1470" height="860" as="geometry" />
         </mxCell>
         <mxCell id="hZ8Lh4XmWWTVLrw4iX3p-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="QEXsgS6kZZZSAuguEfgR-4" vertex="1">
-          <mxGeometry width="570" height="860" as="geometry" />
+          <mxGeometry width="620" height="860" as="geometry" />
         </mxCell>
         <mxCell id="Kna8JGkl15qAOSWJscD3-0" value="&lt;p style=&quot;line-height: 80%&quot;&gt;&lt;/p&gt;&lt;h1 style=&quot;font-size: 26px&quot;&gt;Fulfilment Team Module&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=0;" parent="QEXsgS6kZZZSAuguEfgR-4" vertex="1">
           <mxGeometry x="100" y="20" width="350" height="60" as="geometry" />
@@ -1024,6 +1024,14 @@
         <mxCell id="hZ8Lh4XmWWTVLrw4iX3p-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="QEXsgS6kZZZSAuguEfgR-4" source="hZ8Lh4XmWWTVLrw4iX3p-2" target="hZ8Lh4XmWWTVLrw4iX3p-4" edge="1">
           <mxGeometry as="geometry" />
         </mxCell>
+        <mxCell id="ug4WtLVOIeD-sEzSDxGS-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QEXsgS6kZZZSAuguEfgR-4" source="hZ8Lh4XmWWTVLrw4iX3p-6" target="ug4WtLVOIeD-sEzSDxGS-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="655" />
+              <mxPoint x="120" y="653" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hZ8Lh4XmWWTVLrw4iX3p-6" value="Material Rejected" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="QEXsgS6kZZZSAuguEfgR-4" vertex="1">
           <mxGeometry x="140" y="630" width="120" height="50" as="geometry" />
         </mxCell>
@@ -1051,6 +1059,9 @@
         </mxCell>
         <mxCell id="gi3QNz5LN1SL2VbjkeqT-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="QEXsgS6kZZZSAuguEfgR-4" source="hZ8Lh4XmWWTVLrw4iX3p-4" target="gi3QNz5LN1SL2VbjkeqT-0" edge="1">
           <mxGeometry as="geometry" />
+        </mxCell>
+        <mxCell id="ug4WtLVOIeD-sEzSDxGS-1" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;fillColor=none;" vertex="1" parent="QEXsgS6kZZZSAuguEfgR-4">
+          <mxGeometry x="10" y="619.5" width="90" height="75" as="geometry" />
         </mxCell>
         <mxCell id="QEXsgS6kZZZSAuguEfgR-6" value="" style="group" parent="U4hOffIa9TAmm8mLI-c7-1" vertex="1" connectable="0">
           <mxGeometry x="-1460" y="330" width="470" height="630" as="geometry" />
@@ -1751,7 +1762,7 @@
           <mxGeometry as="geometry" />
         </mxCell>
         <mxCell id="mIynTOSqcWu2keHhH5P9-0" value="Order ID: BRFQ_20210403064735&#xa;&#xa;&#xa;Buyer payment terms: 100% Advance against proforma Invoice&#xa;Selling: As per po&#xa;Logistics handler: Supplier&#xa;Buying: 47000/MT + 3000 (for transport)&#xa;Buyer entity: Kolkata, West Bengal&#xa;Supplier: Bansal Industrial Corporation&#xa;Supplier entity: Kolkata, West Bengal&#xa;Pickup Address: Howrah, Shalimar&#xa;Delivery Address: Hindustan Unilever Limited&#xa;                            1, Transport Depot Road, &#xa;                            Taratala, Kolkata700088&#xa;&#xa;&#xa;Supplier ops: Rabiul" style="rounded=0;whiteSpace=wrap;html=1;" parent="U4hOffIa9TAmm8mLI-c7-1" vertex="1">
-          <mxGeometry x="700" y="-636" width="330" height="320" as="geometry" />
+          <mxGeometry x="630" y="-580" width="330" height="320" as="geometry" />
         </mxCell>
         <mxCell id="ug4WtLVOIeD-sEzSDxGS-0" value="&lt;p style=&quot;line-height: 80%&quot;&gt;&lt;/p&gt;&lt;h1 style=&quot;font-size: 26px&quot;&gt;Lead Management Module&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="U4hOffIa9TAmm8mLI-c7-1">
           <mxGeometry x="-760" y="343.94" width="350" height="56.06" as="geometry" />
