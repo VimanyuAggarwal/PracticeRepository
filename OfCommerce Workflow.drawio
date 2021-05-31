@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-31T07:15:02.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Crlm9TthD--deOSorBvU" version="14.7.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-31T07:35:41.875Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="AkYSpBYQaT5njKFgdQiP" version="14.6.3" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Overview">
-    <mxGraphModel dx="9662" dy="11935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" background="none" math="0" shadow="1">
+    <mxGraphModel dx="9449" dy="11783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" background="none" math="0" shadow="1">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -483,7 +483,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1--rTxH9IWRkPkINqhhr" name="Modular Structure">
-    <mxGraphModel dx="12115" dy="13234" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" math="0" shadow="0">
+    <mxGraphModel dx="15359" dy="14061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" math="0" shadow="0">
       <root>
         <mxCell id="U4hOffIa9TAmm8mLI-c7-0" />
         <mxCell id="U4hOffIa9TAmm8mLI-c7-1" parent="U4hOffIa9TAmm8mLI-c7-0" />
@@ -1831,139 +1831,6 @@
         </mxCell>
         <mxCell id="z2cSg3c17jVe23cbuM_H-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="U4hOffIa9TAmm8mLI-c7-1" source="z2cSg3c17jVe23cbuM_H-90" target="z2cSg3c17jVe23cbuM_H-102" edge="1">
           <mxGeometry x="10" y="-1120" as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-79" value="" style="group;fillColor=#ffffff;" parent="U4hOffIa9TAmm8mLI-c7-1" vertex="1" connectable="0">
-          <mxGeometry x="630" y="820" width="470" height="630" as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-80" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="Wi1jUIwUAvPCEiw-5hK0-79" vertex="1">
-          <mxGeometry width="470" height="630" as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-81" value="&lt;p style=&quot;line-height: 80%&quot;&gt;&lt;/p&gt;&lt;h1 style=&quot;font-size: 26px&quot;&gt;Task Queue Module&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;shadow=0;" parent="Wi1jUIwUAvPCEiw-5hK0-79" vertex="1">
-          <mxGeometry x="60" y="20" width="350" height="56.06" as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-82" value="Select Team/View of Queue" style="rounded=1;whiteSpace=wrap;html=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" vertex="1">
-          <mxGeometry x="325" y="93.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-83" value="Will show all the related entities as per your team and access" style="whiteSpace=wrap;html=1;rounded=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" vertex="1">
-          <mxGeometry x="325" y="173.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" source="Wi1jUIwUAvPCEiw-5hK0-82" target="Wi1jUIwUAvPCEiw-5hK0-83" edge="1">
-          <mxGeometry as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-85" value="Shows TAT for assigned and unassigned tasks" style="whiteSpace=wrap;html=1;rounded=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" vertex="1">
-          <mxGeometry x="325" y="253.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" source="Wi1jUIwUAvPCEiw-5hK0-83" target="Wi1jUIwUAvPCEiw-5hK0-85" edge="1">
-          <mxGeometry as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-87" value="Manager and Team Members can assign Task to themselves or other team members" style="whiteSpace=wrap;html=1;rounded=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" vertex="1">
-          <mxGeometry x="325" y="333.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" source="Wi1jUIwUAvPCEiw-5hK0-85" target="Wi1jUIwUAvPCEiw-5hK0-87" edge="1">
-          <mxGeometry as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-89" value="Can respond to same task to communicate in form of Email from the platform itself" style="whiteSpace=wrap;html=1;rounded=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" vertex="1">
-          <mxGeometry x="325" y="412.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" source="Wi1jUIwUAvPCEiw-5hK0-87" target="Wi1jUIwUAvPCEiw-5hK0-89" edge="1">
-          <mxGeometry as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-91" value="Once the task is completed the task will be assigned to the next team&amp;nbsp;&lt;br&gt;&amp;nbsp;in process" style="whiteSpace=wrap;html=1;rounded=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" vertex="1">
-          <mxGeometry x="325" y="493.5" width="120" height="76.5" as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" source="Wi1jUIwUAvPCEiw-5hK0-89" target="Wi1jUIwUAvPCEiw-5hK0-91" edge="1">
-          <mxGeometry as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-93" value="&lt;h1 style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Order of Tasks&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="Wi1jUIwUAvPCEiw-5hK0-79" vertex="1">
-          <mxGeometry x="35" y="93.5" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-94" value="RFQ" style="rounded=1;whiteSpace=wrap;html=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" vertex="1">
-          <mxGeometry x="35" y="213.5" width="110" height="22" as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-95" value="Supplier Team" style="rounded=1;whiteSpace=wrap;html=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" vertex="1">
-          <mxGeometry x="35" y="261.5" width="110" height="22" as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" source="Wi1jUIwUAvPCEiw-5hK0-94" target="Wi1jUIwUAvPCEiw-5hK0-95" edge="1">
-          <mxGeometry as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="Wi1jUIwUAvPCEiw-5hK0-79" source="Wi1jUIwUAvPCEiw-5hK0-98" target="Wi1jUIwUAvPCEiw-5hK0-94" edge="1">
-          <mxGeometry as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-98" value="Sales Team" style="rounded=1;whiteSpace=wrap;html=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" vertex="1">
-          <mxGeometry x="35" y="161.5" width="110" height="22" as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="Wi1jUIwUAvPCEiw-5hK0-79" source="Wi1jUIwUAvPCEiw-5hK0-100" target="Wi1jUIwUAvPCEiw-5hK0-98" edge="1">
-          <mxGeometry as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-100" value="Buyer/Company" style="rounded=1;whiteSpace=wrap;html=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" vertex="1">
-          <mxGeometry x="35" y="113.5" width="110" height="22" as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-101" value="Quotation" style="rounded=1;whiteSpace=wrap;html=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" vertex="1">
-          <mxGeometry x="35" y="312" width="110" height="22" as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" source="Wi1jUIwUAvPCEiw-5hK0-95" target="Wi1jUIwUAvPCEiw-5hK0-101" edge="1">
-          <mxGeometry as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-103" value="Sales Team" style="rounded=1;whiteSpace=wrap;html=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" vertex="1">
-          <mxGeometry x="35" y="360.5" width="110" height="22" as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" source="Wi1jUIwUAvPCEiw-5hK0-101" target="Wi1jUIwUAvPCEiw-5hK0-103" edge="1">
-          <mxGeometry as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-105" value="Confirmed RFQ with PO" style="rounded=1;whiteSpace=wrap;html=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" vertex="1">
-          <mxGeometry x="35" y="403.5" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" source="Wi1jUIwUAvPCEiw-5hK0-103" target="Wi1jUIwUAvPCEiw-5hK0-105" edge="1">
-          <mxGeometry as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-107" value="S&amp;amp;OP Team" style="rounded=1;whiteSpace=wrap;html=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" vertex="1">
-          <mxGeometry x="35" y="452.5" width="110" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" source="Wi1jUIwUAvPCEiw-5hK0-105" target="Wi1jUIwUAvPCEiw-5hK0-107" edge="1">
-          <mxGeometry as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-109" value="Order and Dispatch" style="rounded=1;whiteSpace=wrap;html=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" vertex="1">
-          <mxGeometry x="35" y="501.5" width="110" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" source="Wi1jUIwUAvPCEiw-5hK0-107" target="Wi1jUIwUAvPCEiw-5hK0-109" edge="1">
-          <mxGeometry as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-111" value="Fulfilment Team" style="rounded=1;whiteSpace=wrap;html=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" vertex="1">
-          <mxGeometry x="35" y="548.25" width="110" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" source="Wi1jUIwUAvPCEiw-5hK0-109" target="Wi1jUIwUAvPCEiw-5hK0-111" edge="1">
-          <mxGeometry as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-113" value="Deliver Order" style="rounded=1;whiteSpace=wrap;html=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" vertex="1">
-          <mxGeometry x="35" y="595" width="110" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" source="Wi1jUIwUAvPCEiw-5hK0-111" target="Wi1jUIwUAvPCEiw-5hK0-113" edge="1">
-          <mxGeometry as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-115" value="Payment Requests" style="rounded=1;whiteSpace=wrap;html=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" vertex="1">
-          <mxGeometry x="190" y="403.5" width="110" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="Wi1jUIwUAvPCEiw-5hK0-79" source="Wi1jUIwUAvPCEiw-5hK0-107" target="Wi1jUIwUAvPCEiw-5hK0-115" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="Wi1jUIwUAvPCEiw-5hK0-79" source="Wi1jUIwUAvPCEiw-5hK0-118" target="Wi1jUIwUAvPCEiw-5hK0-109" edge="1">
-          <mxGeometry as="geometry">
-            <Array as="points">
-              <mxPoint x="245" y="512" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-118" value="Finance Team" style="rounded=1;whiteSpace=wrap;html=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" vertex="1">
-          <mxGeometry x="190" y="470" width="110" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" source="Wi1jUIwUAvPCEiw-5hK0-115" target="Wi1jUIwUAvPCEiw-5hK0-118" edge="1">
-          <mxGeometry as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-120" value="Sales Team" style="rounded=1;whiteSpace=wrap;html=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" vertex="1">
-          <mxGeometry x="175" y="595" width="110" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="Wi1jUIwUAvPCEiw-5hK0-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Wi1jUIwUAvPCEiw-5hK0-79" source="Wi1jUIwUAvPCEiw-5hK0-113" target="Wi1jUIwUAvPCEiw-5hK0-120" edge="1">
-          <mxGeometry as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
