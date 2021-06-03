@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T05:23:50.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="ASIu9_3F05Se4eavCaM0" version="14.7.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-03T05:53:45.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="U4QQYzwvV7pgMhSpe8wY" version="14.7.3" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Overview">
     <mxGraphModel dx="9046" dy="11599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" background="none" math="0" shadow="1">
       <root>
@@ -483,7 +483,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1--rTxH9IWRkPkINqhhr" name="Modular Structure">
-    <mxGraphModel dx="15306" dy="14405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" math="0" shadow="0">
+    <mxGraphModel dx="15306" dy="14855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" math="0" shadow="0">
       <root>
         <mxCell id="U4hOffIa9TAmm8mLI-c7-0" />
         <mxCell id="U4hOffIa9TAmm8mLI-c7-1" parent="U4hOffIa9TAmm8mLI-c7-0" />
@@ -1845,7 +1845,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Vxgif9MNmEVM977FbnTp" name="Lead Management System">
-    <mxGraphModel dx="4202" dy="4675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2503" dy="3949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gMaqywZKqda512zvk2Ln-0" />
         <mxCell id="gMaqywZKqda512zvk2Ln-1" parent="gMaqywZKqda512zvk2Ln-0" />
@@ -1915,7 +1915,10 @@
         <mxCell id="H1-q_YHC8nNbrbWWKlCz-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gMaqywZKqda512zvk2Ln-1" source="H1-q_YHC8nNbrbWWKlCz-14" target="H1-q_YHC8nNbrbWWKlCz-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H1-q_YHC8nNbrbWWKlCz-14" value="&lt;b&gt;Structure&lt;/b&gt;&lt;br&gt;&lt;ol style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;Company Name&lt;/li&gt;&lt;li&gt;Buyer/Supplier&lt;/li&gt;&lt;li&gt;Industry/Domain&lt;/li&gt;&lt;li&gt;L1 Category&lt;/li&gt;&lt;li&gt;Address&lt;/li&gt;&lt;li&gt;Region&lt;/li&gt;&lt;li&gt;POC Name 1&lt;/li&gt;&lt;li&gt;Designation&lt;/li&gt;&lt;li&gt;Phone Number 1&lt;/li&gt;&lt;li&gt;Phone Number 2&lt;/li&gt;&lt;li&gt;Email ID&lt;/li&gt;&lt;li&gt;POC Name 2&lt;/li&gt;&lt;li&gt;Designation&lt;/li&gt;&lt;li&gt;Phone Number 1&lt;/li&gt;&lt;li&gt;Phone Number 2&lt;/li&gt;&lt;li&gt;Email ID&lt;/li&gt;&lt;li&gt;Remarks&lt;/li&gt;&lt;li&gt;Status - Cold/Warm/Rejected&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gMaqywZKqda512zvk2Ln-1">
+        <mxCell id="dByVmi5Kkrs0cvbkv73a-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="gMaqywZKqda512zvk2Ln-1" source="H1-q_YHC8nNbrbWWKlCz-14" target="dByVmi5Kkrs0cvbkv73a-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H1-q_YHC8nNbrbWWKlCz-14" value="&lt;b&gt;Structure&lt;/b&gt;&lt;br&gt;&lt;ol style=&quot;font-size: 11px&quot;&gt;&lt;li style=&quot;text-align: left&quot;&gt;Company Name*&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Buyer/Supplier(Prefilled)&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Industry/Domain&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Address&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Region(NEWS-Prefilled)&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;POC Name 1*&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Designation&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Phone Number 1*&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Phone Number 2&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Email ID&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;POC Name 2&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Designation&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Phone Number 1&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Phone Number 2&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Email ID&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Remarks&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Status - Cold/Warm/Rejected&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gMaqywZKqda512zvk2Ln-1">
           <mxGeometry x="-935.01" y="-2010" width="218" height="280" as="geometry" />
         </mxCell>
         <mxCell id="D4ZaHgZJsMVAR3TPb85Y-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="gMaqywZKqda512zvk2Ln-1" source="H1-q_YHC8nNbrbWWKlCz-17" target="D4ZaHgZJsMVAR3TPb85Y-0">
@@ -1942,6 +1945,9 @@
         </mxCell>
         <mxCell id="D4ZaHgZJsMVAR3TPb85Y-4" value="Tag Leads - Import(Date), Lead, Domain, Status(Warm/Cold/Rejected)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="gMaqywZKqda512zvk2Ln-1">
           <mxGeometry x="-913.63" y="-1500" width="175.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dByVmi5Kkrs0cvbkv73a-0" value="&lt;font style=&quot;font-size: 11px&quot;&gt;List of Industries:&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;ul style=&quot;font-size: 11px&quot;&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Infrastructure&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Polymer&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Petrochemical&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Industrial Chemical&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Accessories&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Non-Ferrous&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Paper&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Textile&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Agri&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Electricals/Electronics&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gMaqywZKqda512zvk2Ln-1">
+          <mxGeometry x="-672.5" y="-2030" width="160" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
