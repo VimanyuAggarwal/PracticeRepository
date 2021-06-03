@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T04:52:13.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="9robXN4foTsV5GR-4rmI" version="14.7.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-03T05:00:48.236Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="ZPgYEG653bLx6eyFxFi5" version="14.7.3" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Overview">
     <mxGraphModel dx="9046" dy="11599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" background="none" math="0" shadow="1">
       <root>
@@ -1912,8 +1912,8 @@
         <mxCell id="H1-q_YHC8nNbrbWWKlCz-14" value="&lt;b&gt;Structure&lt;/b&gt;&lt;br&gt;&lt;ol style=&quot;font-size: 11px&quot;&gt;&lt;li&gt;Company Name&lt;/li&gt;&lt;li&gt;Buyer/Supplier&lt;/li&gt;&lt;li&gt;Industry&lt;/li&gt;&lt;li&gt;L1 Category&lt;/li&gt;&lt;li&gt;Address&lt;/li&gt;&lt;li&gt;Region&lt;/li&gt;&lt;li&gt;POC Name 1&lt;/li&gt;&lt;li&gt;Designation&lt;/li&gt;&lt;li&gt;Phone Number 1&lt;/li&gt;&lt;li&gt;Phone Number 2&lt;/li&gt;&lt;li&gt;Email ID&lt;/li&gt;&lt;li&gt;POC Name 2&lt;/li&gt;&lt;li&gt;Designation&lt;/li&gt;&lt;li&gt;Phone Number 1&lt;/li&gt;&lt;li&gt;Phone Number 2&lt;/li&gt;&lt;li&gt;Email ID&lt;/li&gt;&lt;li&gt;Remarks&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gMaqywZKqda512zvk2Ln-1">
           <mxGeometry x="-908" y="-2010" width="164" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="H1-q_YHC8nNbrbWWKlCz-17" value="Verify leads&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="gMaqywZKqda512zvk2Ln-1">
-          <mxGeometry x="-878.5" y="-1730" width="105" height="40" as="geometry" />
+        <mxCell id="H1-q_YHC8nNbrbWWKlCz-17" value="Verify leads - Name of Company, Phone Number,&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="gMaqywZKqda512zvk2Ln-1">
+          <mxGeometry x="-894.25" y="-1730" width="138.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
