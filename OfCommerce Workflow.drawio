@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-08T05:48:21.918Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="XyVB973mgS3eOxFS2HdB" version="14.7.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-08T05:50:41.527Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="SOisnXVHUaNXXqtXdA6V" version="14.7.6" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Overview">
     <mxGraphModel dx="9286" dy="11599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" background="none" math="0" shadow="1">
       <root>
@@ -1973,8 +1973,23 @@
         <mxCell id="L7PZroAlDli4sSy5llIS-1" value="Enquiry" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gMaqywZKqda512zvk2Ln-1">
           <mxGeometry x="354" y="-2382" width="96" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="L7PZroAlDli4sSy5llIS-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gMaqywZKqda512zvk2Ln-1" source="L7PZroAlDli4sSy5llIS-3" target="L7PZroAlDli4sSy5llIS-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="L7PZroAlDli4sSy5llIS-3" value="Supplier for Rates" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gMaqywZKqda512zvk2Ln-1">
           <mxGeometry x="354" y="-2340" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L7PZroAlDli4sSy5llIS-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gMaqywZKqda512zvk2Ln-1" source="L7PZroAlDli4sSy5llIS-5" target="L7PZroAlDli4sSy5llIS-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L7PZroAlDli4sSy5llIS-5" value="Supplier Quote Rates" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gMaqywZKqda512zvk2Ln-1">
+          <mxGeometry x="354" y="-2290" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L7PZroAlDli4sSy5llIS-7" value="Enquiry Quoted" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gMaqywZKqda512zvk2Ln-1">
+          <mxGeometry x="354" y="-2240" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="L7PZroAlDli4sSy5llIS-9" value="Calls" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gMaqywZKqda512zvk2Ln-1">
+          <mxGeometry x="530" y="-2430" width="96" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
