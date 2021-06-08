@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T11:46:09.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="IY6DnYNN-aotLVbMRYcu" version="14.7.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-08T05:48:21.918Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="XyVB973mgS3eOxFS2HdB" version="14.7.6" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Overview">
-    <mxGraphModel dx="9046" dy="11599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" background="none" math="0" shadow="1">
+    <mxGraphModel dx="9286" dy="11599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" background="none" math="0" shadow="1">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -1845,7 +1845,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Vxgif9MNmEVM977FbnTp" name="Lead Management System">
-    <mxGraphModel dx="2881" dy="3978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2373" dy="3810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gMaqywZKqda512zvk2Ln-0" />
         <mxCell id="gMaqywZKqda512zvk2Ln-1" parent="gMaqywZKqda512zvk2Ln-0" />
@@ -1960,6 +1960,21 @@
         </mxCell>
         <mxCell id="dByVmi5Kkrs0cvbkv73a-4" value="&lt;ol style=&quot;font-size: 14px&quot;&gt;&lt;li&gt;Call directly from Phone&lt;/li&gt;&lt;li&gt;Input Notes after call&lt;/li&gt;&lt;li&gt;Call Logs and Last Contacted Date&lt;/li&gt;&lt;li&gt;Set Reminder for Follow-up&lt;/li&gt;&lt;li&gt;Filter Leads based on input parameters&lt;/li&gt;&lt;li&gt;Forward Leads&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=left;" parent="dByVmi5Kkrs0cvbkv73a-6" vertex="1">
           <mxGeometry x="70" y="90" width="270" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="L7PZroAlDli4sSy5llIS-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gMaqywZKqda512zvk2Ln-1" source="L7PZroAlDli4sSy5llIS-0" target="L7PZroAlDli4sSy5llIS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L7PZroAlDli4sSy5llIS-0" value="Calls" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gMaqywZKqda512zvk2Ln-1">
+          <mxGeometry x="354" y="-2430" width="96" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="L7PZroAlDli4sSy5llIS-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gMaqywZKqda512zvk2Ln-1" source="L7PZroAlDli4sSy5llIS-1" target="L7PZroAlDli4sSy5llIS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L7PZroAlDli4sSy5llIS-1" value="Enquiry" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gMaqywZKqda512zvk2Ln-1">
+          <mxGeometry x="354" y="-2382" width="96" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="L7PZroAlDli4sSy5llIS-3" value="Supplier for Rates" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gMaqywZKqda512zvk2Ln-1">
+          <mxGeometry x="354" y="-2340" width="96" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
