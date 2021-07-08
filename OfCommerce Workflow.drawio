@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-08T07:36:54.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="r4Mu9ZuXm_vuKWFeF8oi" version="14.7.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-07-08T05:15:35.240Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="DDWFE3HPcoPWCKeAPXMV" version="14.7.6" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Overview">
     <mxGraphModel dx="9286" dy="11599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" background="none" math="0" shadow="1">
       <root>
@@ -1996,6 +1996,44 @@
         </mxCell>
         <mxCell id="L7PZroAlDli4sSy5llIS-12" value="Enquiry Quoted" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gMaqywZKqda512zvk2Ln-1">
           <mxGeometry x="354" y="-2190" width="96" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="CwSg872PUR6h5SVOoA8j" name="Page-4">
+    <mxGraphModel dx="1049" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="JwqqfHovxmkRiTR9roqn-0" />
+        <mxCell id="JwqqfHovxmkRiTR9roqn-1" parent="JwqqfHovxmkRiTR9roqn-0" />
+        <mxCell id="JwqqfHovxmkRiTR9roqn-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JwqqfHovxmkRiTR9roqn-1" source="JwqqfHovxmkRiTR9roqn-2" target="JwqqfHovxmkRiTR9roqn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JwqqfHovxmkRiTR9roqn-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JwqqfHovxmkRiTR9roqn-1" source="JwqqfHovxmkRiTR9roqn-2" target="JwqqfHovxmkRiTR9roqn-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JwqqfHovxmkRiTR9roqn-2" value="OFB Ad Consortium" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JwqqfHovxmkRiTR9roqn-1">
+          <mxGeometry x="350" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JwqqfHovxmkRiTR9roqn-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JwqqfHovxmkRiTR9roqn-1" source="JwqqfHovxmkRiTR9roqn-3" target="JwqqfHovxmkRiTR9roqn-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JwqqfHovxmkRiTR9roqn-3" value="Display Network" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JwqqfHovxmkRiTR9roqn-1">
+          <mxGeometry x="260" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JwqqfHovxmkRiTR9roqn-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JwqqfHovxmkRiTR9roqn-1" source="JwqqfHovxmkRiTR9roqn-5" target="JwqqfHovxmkRiTR9roqn-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JwqqfHovxmkRiTR9roqn-5" value="AdWords like &lt;br&gt;Platform" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="JwqqfHovxmkRiTR9roqn-1">
+          <mxGeometry x="440" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JwqqfHovxmkRiTR9roqn-13" value="Pool of B2B&lt;br&gt;Sites" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="JwqqfHovxmkRiTR9roqn-1">
+          <mxGeometry x="150" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JwqqfHovxmkRiTR9roqn-15" value="Pool of Advertisers" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="JwqqfHovxmkRiTR9roqn-1">
+          <mxGeometry x="530" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JwqqfHovxmkRiTR9roqn-24" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutDoubleArrow;dy=10;dx=20;notch=24;arrowHead=10;" vertex="1" parent="JwqqfHovxmkRiTR9roqn-1">
+          <mxGeometry x="270" y="300" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
