@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-08T05:15:48.697Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="2XLp5cqyN1cXp-zA954V" version="14.7.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-07-08T05:20:42.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="B8B19XdIf3B_9edc3t4P" version="14.7.6" type="github" pages="4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Overview">
     <mxGraphModel dx="9286" dy="11599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8027" pageHeight="11069" background="none" math="0" shadow="1">
       <root>
@@ -2001,7 +2001,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CwSg872PUR6h5SVOoA8j" name="Ad Consortium">
-    <mxGraphModel dx="1049" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="849" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="JwqqfHovxmkRiTR9roqn-0" />
         <mxCell id="JwqqfHovxmkRiTR9roqn-1" parent="JwqqfHovxmkRiTR9roqn-0" />
@@ -2027,13 +2027,16 @@
           <mxGeometry x="440" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JwqqfHovxmkRiTR9roqn-13" value="Pool of B2B&lt;br&gt;Sites" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="JwqqfHovxmkRiTR9roqn-1">
-          <mxGeometry x="150" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JwqqfHovxmkRiTR9roqn-15" value="Pool of Advertisers" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;" vertex="1" parent="JwqqfHovxmkRiTR9roqn-1">
-          <mxGeometry x="530" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JwqqfHovxmkRiTR9roqn-24" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.calloutDoubleArrow;dy=10;dx=20;notch=24;arrowHead=10;" vertex="1" parent="JwqqfHovxmkRiTR9roqn-1">
-          <mxGeometry x="270" y="300" width="260" height="60" as="geometry" />
+        <mxCell id="JwqqfHovxmkRiTR9roqn-25" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;rotation=180;direction=east;" vertex="1" parent="JwqqfHovxmkRiTR9roqn-1">
+          <mxGeometry x="340" y="312.5" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="JwqqfHovxmkRiTR9roqn-26" value="Targeted Display&lt;br&gt;of Ads" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeOpacity=0;" vertex="1" parent="JwqqfHovxmkRiTR9roqn-1">
+          <mxGeometry x="345" y="315" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
